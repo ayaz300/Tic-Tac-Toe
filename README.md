@@ -1,3 +1,5 @@
+<img width="1279" height="719" alt="QR-Code-Generator" src="[https://github.com](https://github.com/ayaz300/Tic-Tac-Toe/blob/main/Tic-Tac-Toe.png)" />
+
 # 🎮 Tic Tac Toe Game
 
 A modern, responsive, and visually stunning **Tic Tac Toe** game built using vanilla web technologies. It features a premium glassmorphic UI design, neon glowing player symbols, win-state tracking, and a reset system.
